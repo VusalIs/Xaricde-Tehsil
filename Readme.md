@@ -34,6 +34,7 @@ Mənim şəxsi fikrimcə yaxşı bir universitetə və təqaüdə düşmək üç
 
 - https://www.youthop.com/scholarships
 - https://www.scholars4dev.com/
+- http://universal.edu.az/az/teqaud-proqramlari/
 - http://www.edu-active.com/
 
 Əgər siz də bunlardan əlavə təqaüd proqramları və ya faydalı saytlar bilirsinizsə merge request atmaqdan çəkinməyin. Star etməyi unutmayın 😁
