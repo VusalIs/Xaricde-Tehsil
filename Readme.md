@@ -33,6 +33,7 @@ Visby təqaüd proqramı qazanılması çətin bir proqramdır. Əsas diqqət et
 Mənim şəxsi fikrimcə yaxşı bir universitetə və təqaüdə düşmək üçün əsas göstəricilər bunlardır: GPA, Motivation Letter, Work Experience or Internship, IELTS(Əgər sizin IELTS verilən tələbləri ödəyirsə yüksək olmasının önəmi yoxdur). Bundan əlavə olaraq, əgər həvəsiniz və vaxtınız varsa https://www.studyineurope.eu/ saytından bir bir fərqli avropa ölkələrindəki təqaüdlərə baxa bilərsiniz. Aşağıdaki saytlar isə ümumi olaraq təhsil və ya müxtəlif proqramlar üçün təqaüd tapmaqda sizə kömək ola bilər:
 
 - https://www.youthop.com/scholarships
+- https://www.scholars4dev.com/
 - http://www.edu-active.com/
 
 Əgər siz də bunlardan əlavə təqaüd proqramları və ya faydalı saytlar bilirsinizsə merge request atmaqdan çəkinməyin. Star etməyi unutmayın 😁
